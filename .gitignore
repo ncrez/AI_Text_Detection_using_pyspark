@@ -1,0 +1,16 @@
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+develop-eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
